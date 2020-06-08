@@ -124,6 +124,7 @@ syn keyword luaFunc btn btnp sfx music
 syn keyword luaFunc mget mset map peek
 syn keyword luaFunc poke memcpy reload cstore
 syn keyword luaFunc memset max min mid
+syn keyword luaFunc tostr tonum
 syn keyword luaFunc flr cos sin atan2
 syn keyword luaFunc sqrt abs rnd srand
 syn keyword luaFunc band bor bxor bnot
